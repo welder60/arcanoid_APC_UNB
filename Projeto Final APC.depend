@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1720527457 source:c:\users\user\desktop\apc\projeto final apc\main.c
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	"desenho.h"
+
+1720527138 c:\users\user\desktop\apc\projeto final apc\desenho.h
+	<windows.h>
+	<string.h>
+
